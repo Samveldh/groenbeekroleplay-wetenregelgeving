@@ -1,0 +1,29 @@
+site_name: Groenbeek wet en regelgeving
+
+# Congiguration
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  favicon: groenbeeklogo.png
+  logo: groenbeeklogo.png
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+    - content.action.edit
+    - content.action.view
