@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening Groenbeek
+# Algemene Plaatselijke Verordening
 
 ## Wetstechnische informatie
 
