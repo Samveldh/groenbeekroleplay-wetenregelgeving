@@ -979,9 +979,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |  | 70 uur | € 12000,-  |
-| Tweede Veroordeling  | 25 maanden |  | € 15000,-  |
-| Meerdere Veroordelingen  | 50 maanden |  | € 100000,-  |
+|  Eerste Veroordeling |  | 30 uur | € 8000,-  |
+| Tweede Veroordeling  | 20 maanden |  | € 10000,-  |
+| Meerdere Veroordelingen  | 40 maanden |  | € 12000,-  |
 
 ### Artikel VIII-16 Niet in bezit hebben van juiste vergunningen
 
