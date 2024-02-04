@@ -22,17 +22,7 @@
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Minderjarigen worden binnen Groenbeek op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Groenbeek niet van toepassing.
 
-### A3 - Verjaring van het strafbaar feit
-
-1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
-
-2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
-
-### A4 - Strafbepaling
+### A3 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
     * Waarschuwingen
@@ -46,87 +36,32 @@
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
 6. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
-7. Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden.
-8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+7. Er geldt een maximumcelstraf van 100 maanden. Als er volgens het wetboek meer dan 100 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 100 maanden.
+8. Een straf kan ook verlaagd worden door verzachtende omstandigheden, dit met maximaal 10 maanden
+9. Als persoon meer dan 100 maanden hoort te krijgen, kan er van die 100 maanden niet nog is strafvermindering af, dus dan staat de 100 maanden straf.
 
-### A5 - Strafblad
-
-1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
-3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
-
-### A6 - Verduidelijking en algemene aanvulling
-
-1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld
-    1. Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen
-2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
-    2. Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
-3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
-    3. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
-4. Strafbare feiten zijn overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Strafrecht van Nederland.
-
-### A7 - Inbeslagname
+### A4 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
-2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de Politie en/ of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
-    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
-    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
-    5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
-    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
-    7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
-    8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
-    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
-3. Geldige redenen voor inbeslagname zijn:
+2. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Groenbeek waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
-5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
-6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
-7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
+3. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
+4. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
 
-### A8 - Openstaande boetes
+### A5 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
     1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
     2. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-    3. De hoogte van deze boete of taakstraf is ter beoordeling van de hulpOfficier van Justitie.
-    4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
+    3. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
-### A9 - Consultatierecht
-
-1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
-2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
-3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
-4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
-5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
-
-### A10 - Algemene rechtsbeginselen
-
-1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
-2. Onder de algemene rechtsbeginselen wordt verstaan:
-    1. Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
-    2. Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
-    3. Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
-    4. Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
-    5. Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
-    6. Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
-    7. Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
-    8. Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
-    9. Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-    10. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
-    11. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
-
-### A11 - Medeplichtigheid en medeplegen
+### A6 - Medeplichtigheid en medeplegen
 
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -134,19 +69,12 @@
     3. zij die opzettelijk het misdrijf bevorderen of makkelijker maken.
 2. Er is sprake van medeplichtigheid als de verdachte behulpzaam is geweest bij het plegen van het strafbare feit van een ander persoon. Bij medeplichtigheid is de rol van de medeplichtige duidelijk kleiner dan de rol van de hoofdverdachte.
 3. Bij medeplichtigheid aan een strafbaar feit wordt de straf met 33% verminderd.
-4. Als daders van een strafbaar feit worden gestraft:
-   1. zij die het feit plegen, doen plegen of medeplegen;
-   2. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.
-5. Er is sprake van medeplegen indien twee of meer personen gezamenlijk een strafbaar feit plegen, waarbij er sprake is van een bewuste en nauwe samenwerking. Het draait hierbij voornamelijk om een samenwerking.
-6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
-7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorhechtenis
+### A7 - Voorhechtenis
 
 1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
-3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
-4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
+3. De maximale periode van de voorhechtenis is 24 uur.
 
 ## Titel I - Vermogensdelicten
 
@@ -184,8 +112,8 @@
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 36 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 51 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 66 maanden  |  | € 30000,-  |
 
 ### Artikel I-4 Afpersing (317 SR)
 
@@ -194,9 +122,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
+|  **Eerste Veroordeling** | 25 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 10000,-  |
+| **Meerdere Veroordelingen**  | 55 maanden  |  | € 15000,-  |
 
 ### Artikel I-5 Afdreiging / Chantage (318 SR)
 
@@ -206,8 +134,8 @@
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 27 maanden  |   | € 7500,-  |
-| **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
+| **Tweede Veroordeling**  | 36 maanden  |   | € 10000,-  |
+| **Meerdere Veroordelingen**  | 47 maanden  |   | € 15000,-  |
 
 ### Artikel I-6 Verduistering (321 SR)
 
@@ -217,7 +145,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 20 uur  | € 5000,-  |
 | **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur  | € 10000,-  |
 
 ### Artikel I-7 Heling (416 SR)
 
@@ -229,7 +157,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
 | **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur  | € 5000,-  |
 
 ### Artikel I-8 Witwassen (420bis SR)
 
@@ -239,7 +167,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** | 27 maanden  |   | € 15000,-  |
 | **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 25000,-  |
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
@@ -291,9 +219,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 72 maanden  |  | € 15000,-  |
-| **Tweede Veroordeling**  | 81 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |  | € 25000,-  |
+|  **Eerste Veroordeling** | 62 maanden  |  | € 15000,-  |
+| **Tweede Veroordeling**  | 71 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 80 maanden  |  | € 25000,-  |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -303,9 +231,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 90 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 99 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
+|  **Eerste Veroordeling** | 70 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 85 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 100 maanden  |  | € 30000,-  |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -329,9 +257,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden  |  | € 10000,-  |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 12500,-  |
-| **Meerdere Veroordelingen**  | 18 maanden  |  | € 15000,-  |
+|  **Eerste Veroordeling** | 19 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |  | € 15000,-  |
 
 ### Artikel II-8 Vernieling (350 SR)
 
@@ -353,8 +281,8 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur | € 6000,-  |
-| **Tweede Veroordeling**  | 20 maanden  |  | € 9000,-  |
+|  **Eerste Veroordeling** |   | 40 uur | € 6000,-  |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 9000,-  |
 | **Meerdere Veroordelingen**  | 30 maanden  |  | € 12000,-  |
 
 ### Artikel II-9 Terroristisch misdrijf (134a SR en 142a SR)
@@ -370,9 +298,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
-| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
-| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
+|  **Eerste Veroordeling** | 100 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 100 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 100 maanden  |  | € 45000,-  |
 
 ### Artikel II-10 Dood door schuld (307 SR)
 
@@ -658,13 +586,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **251-500** | 95 maanden  |  | € 10000,-  |
-| **501-750**  | 100 maanden  |  | € 11000,-  |
-| **751-1000**  | 110 maanden  |   | € 12000,-  |
-| **1001-1500**  | 125 maanden  |   | € 15000,-  |
-| **1501-2500**  | 140 maanden  |   | € 20000,-  |
-| **2501-5000**  | 165 maanden  |   | € 27500,-  |
-| **5001 en meer**  | 200 maanden  |   | € 35000,-  |
+|  **251-500** | 70 maanden  |  | € 10000,-  |
+| **501-750**  | 75 maanden  |  | € 20000,-  |
+| **751-1000**  | 80 maanden  |   | € 25000,-  |
+| **1001-1500**  | 85 maanden  |   | € 30000,-  |
+| **1501-2500**  | 90 maanden  |   | € 35000,-  |
+| **2501-5000**  | 95 maanden  |   | € 40000,-  |
+| **5001 en meer**  | 100 maanden  |   | € 45000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -688,13 +616,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **51-100** | 125 maanden  |  | € 13000,-  |
-| **101-150**  | 135 maanden  |  | € 14000,-  |
-| **151-250**  | 145 maanden  |   | € 15500,-  |
-| **251-500**  | 160 maanden  |   | € 17000,-  |
-| **501-1000**  | 190 maanden  |   | € 20000,-  |
-| **1001-2500**  | 220 maanden  |   | € 30000,-  |
-| **2501 en meer**  | 275 maanden  |   | € 45000,-  |
+|  **51-100** | 75 maanden  |  | € 13000,-  |
+| **101-150**  | 80 maanden  |  | € 14000,-  |
+| **151-250**  | 85 maanden  |   | € 15500,-  |
+| **251-500**  | 90 maanden  |   | € 17000,-  |
+| **501-1000**  | 95 maanden  |   | € 20000,-  |
+| **1001-2500**  | 100 maanden  |   | € 30000,-  |
+| **2501 en meer**  | 100 maanden  |   | € 45000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -737,10 +665,10 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |  **251-500** | 45 maanden  |  | € 6750,-  |
 | **501-750**  | 60 maanden  |  | € 7500,-  |
 | **751-1000**  | 75 maanden  |   | € 9000,-  |
-| **1001-1500**  | 95 maanden  |   | € 11500,-  |
-| **1501-2500**  | 120 maanden  |   | € 13500,-  |
-| **2501-5000**  | 150 maanden  |   | € 17500,-  |
-| **5001 en meer**  | 175 maanden  |   | € 20000,-  |
+| **1001-1500**  | 85 maanden  |   | € 11500,-  |
+| **1501-2500**  | 90 maanden  |   | € 13500,-  |
+| **2501-5000**  | 95 maanden  |   | € 17500,-  |
+| **5001 en meer**  | 100 maanden  |   | € 20000,-  |
 
 #### Rekentabel Softdrugs: eindproducten
 
@@ -767,10 +695,10 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |  **51-100** | 60 maanden  |  | € 9500,-  |
 | **101-150**  | 70 maanden  |  | € 10500,-  |
 | **151-250**  | 80 maanden  |   | € 11500,-  |
-| **251-500**  | 100 maanden  |   | € 15000,-  |
-| **501-1000**  | 125 maanden  |   | € 19500,-  |
-| **1001-2500**  | 160 maanden  |   | € 25000,-  |
-| **2501 en meer**  | 190 maanden  |   | € 30000,-  |
+| **251-500**  | 85 maanden  |   | € 15000,-  |
+| **501-1000**  | 90 maanden  |   | € 19500,-  |
+| **1001-2500**  | 95 maanden  |   | € 25000,-  |
+| **2501 en meer**  | 100 maanden  |   | € 30000,-  |
 
 ## Titel V - Wet Wapens en Munitie
 
@@ -799,9 +727,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 81 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 108 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 144 maanden  |  | € 27500,-  |
+|  **Eerste Veroordeling** | 80 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 90 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 100 maanden  |  | € 32500,-  |
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
@@ -1083,10 +1011,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
 | **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
 
-### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
-
-1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
-
 ### Artikel VIII-14 Vergunningloze voertuig handelaar
 
 1. Schuldig is een persoon die meerdere voertuigen verhandeld op een locatie, zonder over de daarvoor vereiste vergunning te beschikken.
@@ -1140,44 +1064,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |  Eerste Veroordeling | 12 maanden |  | € 10.000,-  |
 | Tweede Veroordeling  | 36 maanden |  | € 15.000,-  |
 | Meerdere Veroordelingen  | 48 maanden |  | € 20.000,-  |
-
-## Titel IX – Schadevergoeding
-
-### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
-
-1. Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor voorlopige hechtenis niet is toegelaten, wordt hem een vergoeding uit de overheid kas toegekend voor de schade welke hij ten gevolge van ondergane inverzekeringstelling of voorlopige hechtenis heeft geleden.
-2. Onder een vergoeding, als bedoeld in het eerste lid vallen o.a. kosten van een advocaat, vergoeding vanwege onterechte detentie/vrijheidsberoving en misgelopen inkomsten vanwege het niet kunnen uitvoeren van persoon zijn werk.
-3. Vergoedingen zoals opgenomen in onderstaande tabel is gebaseerd op onterechte detentie en misgelopen inkomsten van het niet kunnen werken. Vergoeding van de advocaat wordt bepaald aan de hand van de daadwerkelijke kosten van de advocaat.
-4. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-5. Een uitzondering op lid 4 is indien vanuit de politie wordt besloten dat de persoon vrij wordt gesproken zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan betrokken te zijn.
-6. Het schadevergoeding document kan alleen worden ondertekend door een OvJ/HOvJ/hOvJ.
-7. Een Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
-
-| Vergoedingen | schadevergoeding  |
-|---|---|
-| per 1 uur politiebureau | € 3000,- |
-| per 1 uur gevangenis | € 5000,- |
-| Advocaat kosten | n.t.b. |
-
-### Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
-
-1. De overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
-2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit.
-3. Subsidiariteit geeft aan of geweld gebruikt mag worden mits het doel niet op een andere manier kan worden bereikt.
-4. Proportionaliteit geeft aan dat de overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, niet méér geweld mag gebruiken dan nodig is. Belangrijk is dat het gebruikte geweld altijd in verhouding staat met de ernst van de situatie en het misdrijf.
-5. Indien niet is voldaan aan de vereisten van subsidiariteit en proportionaliteit en er is sprake van buitensporig geweld met schade tot gevolg, dan is de politie aansprakelijk voor de veroorzaakte schade. De schadevergoeding wordt bepaald aan de hand van onderstaande vergoeding tabel.
-6. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-7. Een uitzondering op lid 6 is indien vanuit de politie zelf wordt aangegeven dat er buitensporig geweld is gebruikt zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
-8. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
-9. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
-
-| Vergoedingen | schadevergoeding |
-|---|---|
-| Onterecht gebruik wapenstok als geweldsmiddel | € 1000,- |
-| Onterecht gebruik stroomstootwapen als geweldsmiddel | € 2500,- |
-| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,- |
-| Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
-| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
 
 ## Titel X – Algemene douanewet
 
