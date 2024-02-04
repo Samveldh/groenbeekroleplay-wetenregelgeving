@@ -41,7 +41,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Door rood licht rijden met een bromfiets | € 1250,- |
 | Door rood licht rijden | € 1750,- |
 | Verkeerde voertuig informatie doorgeven | € 270,- |
-| Onnodig claxoneren | € 1000,- |
+| Onnodig claxoneren | € 700,- |
 | Joyriding | € 1700,- |
 | Rijden onder invloed | € 4000,- |
 | Illegaal off road rijden | € 2500,- |
@@ -56,7 +56,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Verkeersongeval met licht lichamelijk letsel | € 4000,- |
 | Verkeersongeval met zwaar lichamelijk letsel | € 10000,- |
 | Dodelijk verkeersongeval | € 16000,- |
-| Doorrijden na een ongeluk | € 15000,- |
+| Doorrijden na een ongeluk | € 7000,- |
 | Verboden voertuig openbare weg | € 3300,- |
 | Negeren van stopteken | € 3600,- |
 | Fout parkeren | € 1750,- |
