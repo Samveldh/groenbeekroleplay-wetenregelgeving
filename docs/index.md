@@ -9,12 +9,10 @@ Zorg ervoor, dat je voor je deelneemt aan Groenbeek, kennis hebt genomen van dez
 - Het Wetboek Groenbeek bevat alle wetten voor de burgers.
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken.
 
-## Officiële discord servers
+## Wetten
 
-Groenbeek heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+Alles mag hier in Groenbeek!
 
-| Server | Beschrijving | Invite link |
-|---|---|:---:|
-|Groenbeek RolePlay| Main discord server van Groenbeek | [Invite](https://discord.gg/groenbeekrp) |
-|Groenbeek Support| Support discord server van Groenbeek | [Invite](https://discord.gg/mTsHjvqxDN) |
-|Groenbeek Overheid| Overheid discord server van Groenbeek | [Invite](https://discord.gg/D8K6jjDM4x) |
+"Je dikke kan*** moeder echt waar misselijkmakend ventje ben je. Ik ga nooit voor je devven hahahaah." - Hoofd Dev en Politie 02
+
+is gewoon wat gezegd mag worden, geen enkel probleem.
